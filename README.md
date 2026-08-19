@@ -1,18 +1,18 @@
-# 🚗 Análisis de Accidentes de Tránsito en Carreteras del Perú (SUTRAN 2020 - 2021)
+# Análisis de Accidentes de Tránsito en Carreteras del Perú (SUTRAN 2020 - 2021)
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange.svg)
 ![Seaborn](https://img.shields.io/badge/Seaborn-Data%20Viz-green.svg)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Colab-yellow.svg)
 
-## 📌 Descripción del Proyecto
+## Descripción del Proyecto
 Este proyecto realiza un análisis exploratorio de datos (EDA), limpieza, estandarización e ingeniería de características (*feature engineering*) sobre el conjunto de datos oficial de **accidentes de tránsito registrados por la SUTRAN** en las carreteras del Perú durante los años **2020 y 2021**.
 
 El objetivo principal es identificar patrones espaciales y temporales en la siniestralidad vial, evaluar la gravedad de los accidentes y categorizar el impacto a nivel macro-regional.
 
 ---
 
-## 📊 Estructura y Flujo de Trabajo
+## Estructura y Flujo de Trabajo
 
 El procesamiento de datos se realizó siguiendo los siguientes pasos:
 
@@ -36,7 +36,7 @@ El procesamiento de datos se realizó siguiendo los siguientes pasos:
 
 ---
 
-## 🛠️ Tecnologías y Librerías Utilizadas
+## Tecnologías y Librerías Utilizadas
 
 - **Lenguaje:** Python 3.x
 - **Manipulación de Datos:** `pandas`, `numpy`
@@ -46,7 +46,7 @@ El procesamiento de datos se realizó siguiendo los siguientes pasos:
 
 ---
 
-## 📁 Estructura del Repositorio
+## Estructura del Repositorio
 
 ```text
 ├── data/
