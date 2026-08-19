@@ -55,3 +55,8 @@ El procesamiento de datos se realizó siguiendo los siguientes pasos:
 │   └── Entregable1_DS_SUTRAN.ipynb
 ├── README.md
 └── requirements.txt
+
+**Autora**
+**Rosa Maria Davila Ponce**
+
+- Proyecto desarrollado para el Entregable 1 - Data Science
