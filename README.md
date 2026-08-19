@@ -54,7 +54,9 @@ El procesamiento de datos se realizó siguiendo los siguientes pasos:
 ├── notebooks/
 │   └── Entregable1_DS_SUTRAN.ipynb
 ├── README.md
-└── requirements.txt ´´´
+└── requirements.txt
+endtext´´´
+---
 
 **Autora**
 **Rosa Maria Davila Ponce**
